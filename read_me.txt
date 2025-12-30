@@ -1,0 +1,1 @@
+# this is BT6 channel sounding test.
